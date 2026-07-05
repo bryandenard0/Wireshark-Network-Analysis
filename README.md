@@ -3,7 +3,6 @@
 **Tools:** Wireshark (Free) · nslookup · tshark
 **Environment:** Local Machine
 **Category:** Network Analysis / Troubleshooting
-**Certification alignment:** CompTIA Network+ · Security+ · CySA+
 
 ---
 
