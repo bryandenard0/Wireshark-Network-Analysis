@@ -40,7 +40,6 @@ Every network issue an org faces — a service that's unreachable, a slow app, a
 - **TCP three-way handshake** — SYN / SYN-ACK / ACK and what a missing SYN-ACK or an RST tells you
 - **DNS** — how name resolution works, A records vs. AAAA/CNAME/MX
 - **HTTP vs. HTTPS** — why unencrypted traffic exposes credentials in plaintext
-- **Promiscuous mode** — what Wireshark's NIC capture mode does and doesn't show you on a switched network
 - **Display filters vs. capture filters** — why display filters are the right tool for post-capture analysis
 
 ---
